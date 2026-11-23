@@ -1,3 +1,5 @@
+package proyectojava;
+
 import java.util.Scanner;
 
 public class Persona {
